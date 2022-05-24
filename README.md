@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abbasi0Abolfazl
+- 👋 Hi, I’m Abolfazl Abbasi
 - 👀 I’m interested in datascintes , Ethical hack , ...
 - 📫 How to reach me https://twitter.com/Abbasi0Abolfazl on twitter and email in a.abbasi5775@gmail.com
 
