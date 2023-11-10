@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abolfazl Abbasi
 - 👀 I’m interested in datascintes , Ethical hack , ...
-- 📫 How to reach me https://twitter.com/Abbasi0Abolfazl on twitter and email in a.abbasi5775@gmail.com
+- 📫 How to reach me on [twitter](https://twitter.com/Abbasi0Abolfazl) and [email](a.abbasi5775@gmail.com)
 
 <!---
 Abbasi0Abolfazl/Abbasi0Abolfazl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
